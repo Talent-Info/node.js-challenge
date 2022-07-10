@@ -1,0 +1,6 @@
+.env
+package-lock.json
+node_modules
+tmp.db
+package.json
+package-lock.json
